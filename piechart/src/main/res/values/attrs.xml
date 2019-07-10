@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieChartView">
+        <attr name="pct_center_circle_radius" format="dimension"/>
+        <attr name="pct_center_circle_color" format="color"/>
+        <attr name="pct_anim_enable" format="boolean"/>
+    </declare-styleable>
+</resources>
